@@ -68,6 +68,7 @@ The data warehouse follows the **Medallion Architecture**, consisting of three l
 | 🥇 **Gold** | Business-Ready Data | A Star Schema is created using fact and dimension views for reporting and analytics. |
 
 ### Data Architecture Diagram
+![Data Architecture](Docs/high-level-data-warehouse-architecture.png)
 
 
 
