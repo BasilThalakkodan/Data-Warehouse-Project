@@ -71,6 +71,10 @@ The data warehouse follows the **Medallion Architecture**, consisting of three l
 ![Data Architecture](Docs/high-level-data-warehouse-architecture.png)
 
 
+### Data Flow Diagram
+![Data Flow](Docs/data_flow.png)
+
+
 
 ---
 
