@@ -1,2 +1,2 @@
-# Data-Warehouse-Project
-A Data Warehouse Project focusing on end-to-end data pipelines
+# SQL-Data-Warehouse-Project
+Building a modern data warehouse with SQL Server including ETL processes, data modelling and analytics.
