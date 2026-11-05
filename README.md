@@ -86,7 +86,7 @@ The Gold layer follows a **Star Schema** consisting of the following tables:
 
 ### Data Model Diagram
 
-![Data Model](docs/data_model.png)
+![Data Model](Docs/data_model.png)
 
 ---
 
